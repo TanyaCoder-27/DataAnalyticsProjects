@@ -1,0 +1,8 @@
+The Instagram User Analytics project involves using SQL 
+and MySQL Workbench in finding the insights from the collected user 
+engagement with Instagram details tables of ig_clone datatbase. By 
+understanding how the users interact with Instagram, various and prominent data
+driven decisions can be made such that user experience will be enhanced, launch 
+effective marketing campaigns and new features. 
+
+The database and pdf that contains tasks and queries will be provided in this repository. Enjoy!:)
