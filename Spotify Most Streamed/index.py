@@ -4,7 +4,7 @@ import seaborn as sns
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # Load the dataset
-file_path = "universal_top_spotify_songs.csv"  # Update this path
+file_path = "universal_top_spotify_songs.csv"  # Path to the csv file downloaded from Kaggle; check it out at README.md
 data = pd.read_csv(file_path)
 
 # Display dataset overview
