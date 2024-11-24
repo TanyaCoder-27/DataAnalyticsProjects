@@ -1,4 +1,4 @@
-## Fun Project on Data Analaysis
+## Fun Project on Data Analysis
 
 Checking out most streamed Spotify songs out there
 
