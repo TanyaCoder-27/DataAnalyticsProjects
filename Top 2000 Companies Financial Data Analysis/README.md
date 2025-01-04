@@ -1,14 +1,10 @@
-### Professional Data Analysis Report
+### Data Analysis Report on Top 2000 Companies Financial Data of 2024
 
 #### Introduction
 This report provides a comprehensive analysis of the "Top 2000 Companies Financial Data 2024" dataset. The analysis includes data cleaning, transformation, and visualization to derive meaningful insights from the financial data of the top 2000 companies globally.
 
 #### Data Loading and Initial Inspection
-The dataset is loaded using the 
-
-pandas
-
- library. The initial inspection includes displaying the first few rows, summarizing the data, and checking for missing values.
+The dataset is loaded using the pandas library. The initial inspection includes displaying the first few rows, summarizing the data, and checking for missing values.
 
 ```python
 import pandas as pd
