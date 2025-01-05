@@ -82,6 +82,7 @@ sns.heatmap(corr_matrix, annot=True, cmap='coolwarm')
 plt.title('Correlation Matrix')
 plt.show()
 ```
+![Correlation matrix](Top 2000 Companies Financial Data Analysis/Imgs/1.png)
 
 **Output Explanation:**
 - The correlation matrix shows the strength and direction of relationships between the financial metrics.
@@ -120,7 +121,7 @@ plt.xlabel('Market Value')
 plt.ylabel('Company Name')
 plt.show()
 ```
-
+![](Top 2000 Companies Financial Data Analysis/Imgs/6.png)
 **Output Explanation:**
 - A bar plot shows the top 10 companies by market value, providing a clear comparison of their market values.
 
@@ -139,7 +140,7 @@ plt.xlabel('Number of Companies')
 plt.ylabel('Country')
 plt.show()
 ```
-
+![](Top 2000 Companies Financial Data Analysis/Imgs/7.png)
 **Output Explanation:**
 - A count plot shows the number of companies from each country, highlighting the countries with the most companies in the dataset.
 
@@ -158,7 +159,7 @@ plt.xlabel('Country')
 plt.ylabel('Mean Sales')
 plt.show()
 ```
-
+![](Top 2000 Companies Financial Data Analysis/Imgs/8.png)
 **Output Explanation:**
 - A bar plot shows the mean sales by country, providing insights into the average sales performance of companies in different countries.
 
@@ -173,7 +174,7 @@ plt.xlabel('Total Assets')
 plt.ylabel('Market Value')
 plt.show()
 ```
-
+![](Top 2000 Companies Financial Data Analysis/Imgs/9.png)
 **Output Explanation:**
 - A scatter plot shows the relationship between total assets and market value, helping to identify any patterns or trends.
 
